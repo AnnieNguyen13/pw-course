@@ -1,0 +1,10 @@
+1. Giải thích các câu lệnh:
+    1. Git init là: tạo 1 thư mục được quản lý bởi git
+    2. Git add <file-name> là: đưa file <file-name> vào vùng staging area
+    3. Git add . là: đưa tất cả file vùng working directory (file mới hoặc file có thay đổi) vào vùng staging area
+    4. Git commit -m"message" là: đưa commit từ vùng staging vào repository với tên là "message"
+
+2. Liệt kê các file theo từng vùng sau khi thao tác 1 loạt các lệnh:
+    1. Working directory: file2, file3
+    2. Staging area: no file (không tìm thấy "file" name để đưa vào staging area)
+    3. Repository: file1
