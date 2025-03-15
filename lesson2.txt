@@ -7,4 +7,4 @@
 2. Liệt kê các file theo từng vùng sau khi thao tác 1 loạt các lệnh:
     1. Working directory: file2, file3
     2. Staging area: no file (không tìm thấy "file" name để đưa vào staging area)
-    3. Repository: file1
+    3. Repository: file1test
